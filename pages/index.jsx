@@ -237,11 +237,11 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <a
-          href="https://alchemy.com/?a=roadtoweb3weektwo"
+          href="https://github.com/luisabellan"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Created by @thatguyintech for Alchemy's Road to Web3 lesson two!
+          Created by @luisabellan
         </a>
       </footer>
     </div>
